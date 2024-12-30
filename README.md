@@ -3,7 +3,7 @@ This is where I am storing code for reading the book and learning how to make an
 
 ## Quick Notes
 ### Current Page
-- ***p10** - The Parts of a Language*
-### Optimization research keywords
-- ***p14***
-- 
+- **p10**
+### Other Pages of Note
+- **p19**
+  - Our Journey
