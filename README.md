@@ -3,7 +3,9 @@ This is where I am storing code for reading the book and learning how to make an
 
 ## Quick Notes
 ### Current Page
-- **p10**
+- **p43**
+  - Regular Languages and Expressions
 ### Other Pages of Note
 - **p19**
   - Our Journey
+### Hour Count - 3 
