@@ -3,7 +3,7 @@ This is where I am storing code for reading the book and learning how to make an
 
 ## Quick Notes
 ### Current Page
-- **p57**
+- **p67**
 ### Pages of Note
 - **p19**
   - Our Journey
